@@ -4,4 +4,5 @@
 
 The goal of this repo is to provide Xinchejian's status of interest to users online.
 
-The idea of this repo comes out of a Xinchejian staff's pain point of not able to know is there people inside the space.
+This repo comes out of a Xinchejian staff's pain point of not able to know is there people inside the space.
+So he does not need to come all the way to the space to realize there is no people to hang out with.
