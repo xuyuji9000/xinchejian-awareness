@@ -1,3 +1,4 @@
 # xinchejian-awareness
 
-The goal of this repo is to provide status of interest of xinchejian to the users online.
+The goal of this repo is to provide xinchejian's status of interest to users online.
+
